@@ -11,4 +11,6 @@
 
 // console.log("The if statement is easy");
 
-l
+for (var i=1;i<=100;i++){
+    console.log('hello world')
+}
